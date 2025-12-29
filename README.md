@@ -57,7 +57,7 @@
   <li>🌐 Website: <a href="https://uzunomer.com" target="_blank">uzunomer.com</a></li>
   <li>📧 Email: <a href="mailto:mail@uzunomer.com">mail@uzunomer.com</a></li>
   <li>🔗 GitHub: <a href="https://github.com/uzunomer" target="_blank">github.com/uzunomer</a></li>
-  <li>🔗 GitHub Page: <a href="https://github.com/uzunomer" target="_blank">github.com/uzunomer</a></li>
+  <li>🔗 GitHub Page: <a href="https://github.com/uzunomer" target="_blank">https://uzunomer.github.io</a></li>
 
 </ul>
 
